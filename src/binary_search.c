@@ -3,7 +3,7 @@
 #include <refinedc.h>
 #include <refinedc_malloc.h>
 
-//@rc::import binary_search_extra from refinedc.examples.binary_search
+//@rc::import binary_search_extra from refinedc.project.workspace.src.binary_search
 
 typedef bool (*comp_fn)(void *, void *);
 
